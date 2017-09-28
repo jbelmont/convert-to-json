@@ -1,0 +1,32 @@
+{
+  "name": "convert-to-json",
+  "version": "1.0.0",
+  "description": "A node micro library that converts tsv and csv to json",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava test/*.js"
+  },
+  "files": [
+    "src/index.js",
+    "constants/index.js",
+    "lib/index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelmont/convert-to-json.git"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
+  },
+  "keywords": [],
+  "author": "Jean-Marcel Belmont <marcelbelmont@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbelmont/convert-to-json/issues"
+  },
+  "homepage": "https://github.com/jbelmont/convert-to-json#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
