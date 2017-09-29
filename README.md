@@ -1,5 +1,7 @@
 # Convert to JSON
 
+[![Build Status](https://travis-ci.org/jbelmont/convert-to-json.svg?branch=master)](https://travis-ci.org/jbelmont/convert-to-json)
+
 A node micro library that converts tsv and csv to json
 
 ## Usage
